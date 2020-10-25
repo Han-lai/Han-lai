@@ -32,13 +32,13 @@ You can use the website to generate badges: https://shields.io/
 
 ## I'm a Machine Learning/Deep Learning Enthusiast!
 
-###### I’m currently working on building my knowledge in the field of Data Science!
-###### Learning Computer Vision, Natural Language Processing
-###### Learning how to deploy Machine Learning/Deep Learning Models
-###### Reading papers on ML/DL/AI
-###### I’m looking to collaborate with other content creators
-###### 2020/2021 Goals: Contribute more to Open Source projects
-###### Fun fact: I have a degree in Marine Science! And I predict yellowfin tuna in the pacific ocean by General additive model and MaxEnt model.
+- 🔭 I’m currently working on building my knowledge in the field of Data Science!
+- 🌱 Learning Computer Vision, Natural Language Processing
+- 😄 Learning how to deploy Machine Learning/Deep Learning Models
+- 😄 Reading papers on ML/DL/AI
+- 👯 I’m looking to collaborate with other content creators
+- ✨ 2020/2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I have a degree in Marine Science! And I predict yellowfin tuna in the pacific ocean by General additive model and MaxEnt model.
 <br />
 
 ### Languages and Tools:
