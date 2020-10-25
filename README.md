@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ![ViewCount](https://views.whatilearened.today/views/github/sachinchaturvedi93/sachinchaturvedi93.svg?cache=remove)
-### Hi there, I'm Lai,Shi-Han <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+#          Hi there, I'm Lai,Shi-Han <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -51,7 +51,7 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Han-lai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
@@ -69,7 +69,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"></code>
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Han-lai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 </p>
