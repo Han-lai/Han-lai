@@ -46,7 +46,6 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Han-lai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
