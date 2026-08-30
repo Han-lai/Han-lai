@@ -126,8 +126,8 @@ Built production ETL systems processing **50K+ daily CFX protocol messages** fro
 
 ### 📫 Get in Touch
 
-- 💼 LinkedIn: [Shi-Han Lai](https://www.linkedin.com/in/shi-han-lai49975)
+- 💼 LinkedIn: [Shi-Han Lai](www.linkedin.com/in/shi-han-lai)
 - 📧 Email: sh41bee@gmail.com
-- 📝 Blog: [hanjobs-com.cms.webnode.tw](https://hanjobs-com.cms.webnode.tw/)
+
 
 ⚡ **Fun fact**: I have a degree in Marine Science and predicted yellowfin tuna distribution in the Pacific Ocean using General Additive Models and MaxEnt models. Now I apply similar data-driven approaches to manufacturing IoT pipelines!
